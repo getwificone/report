@@ -38,32 +38,7 @@ When creating a new issue, select the appropriate template:
 ### 3. Fill Out the Template
 We provide templates to help you structure your report. **Leaving sections blank may result in the issue being closed.**
 
-
-
-#### 📝 Bug Report Template Structure
-Please include the following details:
-
-*   **Describe the Bug**: A clear, concise description of what is happening.
-*   **Steps to Reproduce**:
-    1. Go to '...'
-    2. Click on '...'
-    3. Scroll down to '...'
-    4. See error
-*   **Expected Behavior**: What *should* have happened?
-*   **Actual Behavior**: What *actually* happened?
-*   **Environment**:
-    *   OS: (e.g., Windows 11, macOS Sonoma, Ubuntu 22.04)
-    *   Browser/Version: (e.g., Chrome 124, Node.js v20)
-    *   App Version: (e.g., v1.2.3)
-*   **Logs/Screenshots**: Attach error logs, stack traces, or screenshots.
-    *   *Tip: Drag and drop images directly into the issue body.*
-
-#### 💡 Feature Request Template Structure
-*   **Problem Statement**: What problem are you trying to solve?
-*   **Proposed Solution**: How do you think the feature should work?
-*   **Alternatives Considered**: Have you tried other workarounds?
-*   **Additional Context**: Any other relevant details?
-
+ 
 
 ## ⚠️ What to Avoid
 
@@ -73,16 +48,7 @@ To keep this repository organized, please avoid:
 *   **Off-Topic Comments**: Keep discussions focused on the issue.
 *   **Security Vulnerabilities**: **Do not** report security issues publicly. Please email `security@wificonn.com` with details.
 
-
-## 🔄 Our Workflow & Response Time
-
-We are committed to striving to fix all reported issues. Here is how we handle them:
-
-1.  **Triage**: A maintainer will review your issue within [e.g., 48 hours] to label it (e.g., `bug`, `enhancement`, `needs-more-info`).
-2.  **Verification**: We may ask for additional details to reproduce the issue. **Please respond promptly** to avoid closure.
-3.  **Prioritization**: Critical bugs are fixed immediately. Feature requests are prioritized based on community demand.
-4.  **Resolution**: Once fixed, the issue will be closed with a link to the commit or release note.
-
+ 
 
 ## 📄 License
 
