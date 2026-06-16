@@ -28,11 +28,15 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**WifiCone Specific Context:**
+- Subdomain: [e.g., wificone.com / reseller.wificone.com / my.wificone.com]
+- User Role: [e.g., Customer, Reseller, Admin]
+- Vendo Machine Status: [e.g., Online, Offline, Not Installed]
+- Machine ID / Fingerprint: [e.g., MAC-12345 or "Unknown"]
+- Order ID (if applicable): [e.g., #ORD-9999]
 
 **Additional context**
 Add any other context about the problem here.
+- Logs: Any error messages from the browser console (F12) or server logs.
+- Steps Taken: Did you try clearing cache, logging out/in, or refreshing the Vendo machine?
+- Related Issues: Does this affect bulk orders, individual orders, or reseller accounts specifically?
